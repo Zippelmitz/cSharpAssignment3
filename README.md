@@ -1,7 +1,7 @@
 # Assignment 3 - Inheritance, Abstract Classes, Interfaces, and Polymorphism
 ## Due: 03-02-2016
 
-## Author
+## Author: Chad Cunningham
 
 
 
@@ -92,7 +92,8 @@ If you did not do well on Assignment 1, you may want to look at the Assignment 1
 It may be benificial for you to create extra methods within the droid sub classes. You are not limited to the ones mentioned. You may even find it useful to make some additional ones that are protected and virtual.
 
 ## Outside Resources Used
-
+http://stackoverflow.com/questions/68578/multiple-cases-in-switch
 
 
 ## Known Problems, Issues, And/Or Errors in the Program
+None Known.
